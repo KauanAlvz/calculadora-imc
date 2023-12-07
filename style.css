@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    text-align: center;
+}
+input, label{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+button{
+    padding: 7px 15px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: #00000015;
+}
